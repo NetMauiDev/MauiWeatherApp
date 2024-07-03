@@ -218,7 +218,9 @@ public static class Constants
 
 # 5. Use `postman` to call the end point
 
-# 6. Paste the data in Json2csharp.com to get the csharp classes. Rename the properties to with pascal casing and use the `JsonPropertyname` Attribute
+# 6. Paste the data in Json2csharp.com to get the csharp classes. 
+
+### Rename the properties to with pascal casing and use the `JsonPropertyname` Attribute
 in a WeatherApiResponse class
 
 ```csharp
